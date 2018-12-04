@@ -30,3 +30,15 @@ header .logo {
   width: 100%;
   height: 100%;
 }
+
+.coming-soon {
+  position: absolute;
+  top: 50%;
+  width:100%;
+  text-align: center;
+}
+
+.coming-soon img {
+  width: 240px;
+  margin-top: -20px;
+}
