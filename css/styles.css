@@ -16,6 +16,7 @@ header .logo {
 .film-section {
   padding: 0 40px 40px;
   max-width: 1440px;
+  margin: 0 auto;
 }
 
 .vimeo-embed {
