@@ -19,6 +19,18 @@ header .logo {
   margin: 0 auto;
 }
 
+.film-section {
+  padding: 0 40px 40px;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+@media (max-width: 720px) {
+    .film-section {
+      padding: 0 20px 40px;
+    }
+}
+
 .vimeo-embed {
   position: relative;
   padding-bottom: 54%; /* 16:9 */
