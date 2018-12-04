@@ -1,0 +1,11 @@
+html, body {
+  background: #242424;
+}
+
+header {
+  text-align: center;
+}
+
+header .logo {
+  max-width: 225px;
+}
